@@ -33,7 +33,7 @@ O dado gerado também pode ser facilmente importado para o Power BI ou Excel par
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/energy-sector-dashboard.git
+git clone https://github.com/Rafafelbrown/energy-sector-dashboard
 cd energy-sector-dashboard
 ```
 
