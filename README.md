@@ -74,5 +74,5 @@ streamlit run src/dashboard.py
 
 ## 🤝 Contato
 
-Desenvolvido para compor o portfólio de Análise de Dados.
-Conecte-se comigo no [LinkedIn](https://linkedin.com/in/seu-perfil).
+Desenvolvido para compor Análise de Dados.
+Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/rafael-brown/).
